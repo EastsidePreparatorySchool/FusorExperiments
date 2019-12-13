@@ -1,0 +1,21 @@
+#This was originally a Google Colab notebook!
+View the original at https://colab.research.google.com/drive/1k7Qzd8dLlcyHTZN4HTKeKjBybqjrou9z
+
+#Cockcroft-Walton Voltage Curves
+
+##Goal
+Understand how the high voltage setup behaves under high loads
+
+##Prodecure
+
+1) Connect to the Arduino via the Windows Bluetooth menu, and determine the port used by the Arduino. Using a terminal viewer program, give the "go" command to the Arduino.
+
+2) Turn on variac
+
+3) Increase variac voltage in intervals of 20 up to 140
+
+4) Slowly turn the voltage back down to 0. Send the "stop" command to the Arduino.
+
+5) Upload the output TXT file to Google Drive, and create a new `Experiment` object
+
+##Results
