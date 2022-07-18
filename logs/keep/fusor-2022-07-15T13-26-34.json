@@ -1,0 +1,5 @@
+{"base-timestamp":1657916786831,"instant":"2022-07-15T13:26:34","log":[
+{"device":"<reset>","data":{},"servertime":1657916786831},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1657916793831},"logsize":{"value":0,"vartime":1657916793831},"devicetime":1657916793831},"servertime":1657916793831},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1657916794831},"logsize":{"value":0,"vartime":1657916794831},"devicetime":1657916794831},"servertime":1657916794831},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1657916795831},"logsize":{"value":0,"vartime":1657916795831},"devicetime":1657916795831},"servertime":1657916795831},
