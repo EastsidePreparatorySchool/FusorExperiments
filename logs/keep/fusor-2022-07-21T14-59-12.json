@@ -1,0 +1,12 @@
+{"base-timestamp":1658440747156,"instant":"2022-07-21T14:59:12","log":[
+{"device":"<reset>","data":{},"servertime":1658440747156},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440752156},"logsize":{"value":0,"vartime":1658440752156},"devicetime":1658440752156},"servertime":1658440752156},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440753156},"logsize":{"value":0,"vartime":1658440753156},"devicetime":1658440753156},"servertime":1658440753156},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440754156},"logsize":{"value":0,"vartime":1658440754156},"devicetime":1658440754156},"servertime":1658440754156},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440755156},"logsize":{"value":0,"vartime":1658440755156},"devicetime":1658440755156},"servertime":1658440755156},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440756156},"logsize":{"value":0,"vartime":1658440756156},"devicetime":1658440756156},"servertime":1658440756156},
+{"device":"Heartbeat","data":{"beat":{"value":10.0,"vartime":1658440757156},"logsize":{"value":0,"vartime":1658440757156},"devicetime":1658440757156},"servertime":1658440757156},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440758156},"logsize":{"value":0,"vartime":1658440758156},"devicetime":1658440758156},"servertime":1658440758156},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440759156},"logsize":{"value":0,"vartime":1658440759156},"devicetime":1658440759156},"servertime":1658440759156},
+{"device":"Login","data":{"observer":{"value":"SYSTEM","vartime":1658440759752},"ip":{"value":"0:0:0:0:0:0:0:1","vartime":1658440759752},"admin":{"value":1,"vartime":1658440759752},"text":{"value":"(admin)","vartime":1658440759752},"devicetime":1658440759752},"servertime":1658440759752},
+{"device":"Heartbeat","data":{"beat":{"value":1.0,"vartime":1658440760156},"logsize":{"value":0,"vartime":1658440760156},"devicetime":1658440760156},"servertime":1658440760156},
