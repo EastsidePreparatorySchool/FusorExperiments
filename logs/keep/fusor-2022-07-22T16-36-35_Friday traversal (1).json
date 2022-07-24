@@ -1857,3 +1857,5 @@
 {"device":"SENSORARRAY","data":{"hfm":{"value":0.00000000,"vartime":2402129},"devicetime":2402171},"servertime":1658533063382},
 {"device":"PIRANI","data":{"p3":{"value":4.81E-3,"vartime":2400111},"p4":{"value":4.810E-3,"vartime":2400171},"devicetime":2400271},"servertime":1658533063407},
 {"device":"HV-LOWSIDE","data":{"variac_rms":{"value":0.06754907,"vartime":2403264},"nst_rms":{"value":0.00173700,"vartime":2403264},"cw_avg":{"value":-0.07515734,"vartime":2403264},"cwc_avg":{"value":0.00000000,"vartime":2403264},"devicetime":2403267},"servertime":1658533063417},
+  {}
+]}
