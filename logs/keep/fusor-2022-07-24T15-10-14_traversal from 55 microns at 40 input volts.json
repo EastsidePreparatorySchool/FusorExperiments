@@ -1506,7 +1506,6 @@
 {"device":"HV-LOWSIDE","data":{"variac_rms":{"value":33.12169300,"vartime":1013744},"nst_rms":{"value":1.95059790,"vartime":1013745},"cw_avg":{"value":-12.10017800,"vartime":1013745},"cwc_avg":{"value":0.00000000,"vartime":1013745},"devicetime":1013748},"servertime":1658700656738},
 {"device":"SENSORARRAY","data":{"hfm":{"value":0.00000000,"vartime":1014214},"devicetime":1014315},"servertime":1658700656739},
 {"device":"TMP","data":{"error":{"value":0,"vartime":1014917},"pump_curr_amps":{"value":2.47558590,"vartime":1014916},"pump_freq":{"value":166.01563000,"vartime":1014916},"devicetime":1014924},"servertime":1658700656805},
-{"device":"PIRANI","data":{"p2":{"value":-7.63E+2,"vartime":1012338},"devicetime":1012369}]ÅRSP[STATUS:{"p2":{"value":-7.63E+2,"vartime":1012338},"p3":{"value":4.76E-3,"vartime":1012398},"p4":{"value":4.760E-3,"vartime":1012458},"devicetime":1012559},"servertime":1658700656819},
 {"device":"PIRANI","data":{"p2":{"value":-7.63E+2,"vartime":1012338},"p3":{"value":4.76E-3,"vartime":1012398},"p4":{"value":4.760E-3,"vartime":1012458},"devicetime":1012581},"servertime":1658700656819},
 {"device":"SENSORARRAY","data":{"gc1":{"value":0,"vartime":1014411},"devicetime":1014418},"servertime":1658700656852},
 {"device":"SENSORARRAY","data":{"gc1":{"value":0,"vartime":1014411},"gc2":{"value":1702,"vartime":1014147},"gc3":{"value":1707,"vartime":1014147},"hfm":{"value":0.00000000,"vartime":1014317},"devicetime":1014424},"servertime":1658700656852},

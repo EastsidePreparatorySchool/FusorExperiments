@@ -1378,7 +1378,6 @@
 {"device":"HV-LOWSIDE","data":{"variac_rms":{"value":0.24561703,"vartime":1856140},"nst_rms":{"value":0.01892009,"vartime":1856140},"cw_avg":{"value":-0.03593837,"vartime":1856140},"cwc_avg":{"value":0.00000000,"vartime":1856140},"devicetime":1856143},"servertime":1658701498951},
 {"device":"Command","data":{"observer":{"value":"gmein","vartime":1658701498960},"ip":{"value":"10.20.81.101","vartime":1658701498960},"text":{"value":"Set needle valve:60.0","vartime":1658701498960},"devicetime":1658701498960},"servertime":1658701498960},
 {"device":"TMP","data":{"error":{"value":0,"vartime":1857453},"pump_curr_amps":{"value":2.47558590,"vartime":1857453},"pump_freq":{"value":364.99023000,"vartime":1857453},"devicetime":1857460},"servertime":1658701498969},
-{"device":"GAS","data":{"nv_in":{"value":60.0,"vartime":1855284},"nv_aî&LLF‘»¡rtime":1855285},"nv_ms":{"value":1700,"vartime":1855285},"devicetime":1855357},"servertime":1658701498982},
 {"device":"SENSORARRAY","data":{"hfm":{"value":0.00000000,"vartime":1855878},"devicetime":1855959},"servertime":1658701499050},
 {"device":"PIRANI","data":{"p2":{"value":-7.63E+2,"vartime":1853923},"p3":{"value":2.33E-2,"vartime":1853681},"p4":{"value":2.331E-2,"vartime":1853736},"devicetime":1853946},"servertime":1658701499061},
 {"device":"HV-LOWSIDE","data":{"variac_rms":{"value":0.23684005,"vartime":1856262},"nst_rms":{"value":0.02178672,"vartime":1856262},"cw_avg":{"value":-0.04120658,"vartime":1856262},"cwc_avg":{"value":0.00000000,"vartime":1856262},"devicetime":1856265},"servertime":1658701499077},
@@ -4102,7 +4101,6 @@
 {"device":"GAS","data":{"sol_in":{"value":true,"vartime":1838178},"sol_stat":{"value":false,"vartime":0},"nv_in":{"value":45.0,"vartime":1901541},"nv_angle":{"value":80.94857000,"vartime":1901542},"nv_ms":{"value":1437,"vartime":1901541},"devicetime":1927063},"servertime":1658701570808},
 {"device":"SENSORARRAY","data":{"gc1":{"value":0,"vartime":1926955},"gc2":{"value":1697,"vartime":1927155},"gc3":{"value":1701,"vartime":1927155},"hfm":{"value":0.00000000,"vartime":1927618},"devicetime":1927653},"servertime":1658701570811},
 {"device":"VARIAC","data":{"input_volts":{"value":40,"vartime":1866216},"dial_volts":{"value":40,"vartime":1884520},"stop":{"value":false,"vartime":1866216},"devicetime":1927661},"servertime":1658701570819},
-{"device":"HV-LOWSIDE","data":{"variac_ríLLH–‘ºartime":1928052},"nst_rms":{"value":1.97625610,"vartime":1928053},"cw_avg":{"value":-0.77919477,"vartime":1928053},"cwc_avg":{"value":0.73860335,"vartime":1928053},"devicetime":1928056},"servertime":1658701570853},
 {"device":"PIRANI","data":{"p3":{"value":3.14E-2,"vartime":1925665},"devicetime":1925721},"servertime":1658701570903},
 {"device":"SENSORARRAY","data":{"hfm":{"value":0.00000000,"vartime":1927719},"devicetime":1927766},"servertime":1658701570913},
 {"device":"TMP","data":{"error":{"value":0,"vartime":1929437},"pump_curr_amps":{"value":2.47558590,"vartime":1929437},"pump_freq":{"value":444.33594000,"vartime":1929437},"devicetime":1929444},"servertime":1658701570923},
